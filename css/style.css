@@ -36,3 +36,7 @@ pre, code { font-family: monospace, sans-serif; font-size: 1em; color:#080; }
 .footer { margin: 20px 0 50px; font-size: 11px; color: #666; text-align: center; }
 .footer a { color: #666; }
 .weibo{background: none repeat scroll 0 0 #2DA1EC;border-radius: 3px 3px 3px 3px; color: #FFFFFF; padding: 5px; text-decoration:none;}
+.weibo:hover{ opacity:0.8;}
+.codebg{background:#000; padding:20px;}
+.codebg code{color:#CCC;}
+.codebg code span{color:#F00;}
