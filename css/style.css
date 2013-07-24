@@ -23,21 +23,22 @@ pre, code { font-family: monospace, sans-serif; font-size: 1em; color:#080; }
 
 /* ------------------------------------------------------ TEMPLATE */
 
-.container { position:relative; overflow:hidden; width:878px; padding: 40px 60px; border: 1px solid #ccc; margin: 40px auto 20px; background: #fff; -webkit-box-shadow: 0 0 15px rgba(0,0,0,0.1); -moz-box-shadow: 0 0 15px rgba(0,0,0,0.1); box-shadow: 0 0 15px rgba(0,0,0,0.1); }
+.container { position:relative;  width:878px; padding: 40px 60px; border: 1px solid #ccc; margin: 40px auto 20px; background: #fff; -webkit-box-shadow: 0 0 15px rgba(0,0,0,0.1); -moz-box-shadow: 0 0 15px rgba(0,0,0,0.1); box-shadow: 0 0 15px rgba(0,0,0,0.1); }
 
 .container pre,
 .container .prettyprint { padding: 0; border: 0; margin: 0 0 20px; font-size: 13px; background: #fff; }
 .ribbon img { display: block; border: 0; }
-.header { padding-right:80px; }
-.header h1{text-align:center;}
+.logobtn{ color:#2DA1EC;}
+.header h1{text-align:center; font-size: 68px;}
 .header p{font-weight: bold;}
 .section { margin: 40px 0 20px; }
 .example { padding: 20px; border: 1px solid #ccc; margin: 10px -20px 20px; }
-.footer { margin: 20px 0 50px; font-size: 11px; color: #666; text-align: center; }
+.footer { margin: 20px 0 50px; font-size:12px; color: #666; text-align: center; }
 .footer a { color: #666; }
 .weibo{background: none repeat scroll 0 0 #2DA1EC;border-radius: 3px 3px 3px 3px; color: #FFFFFF; padding: 5px; text-decoration:none;}
 .weibo:hover{ opacity:0.8;}
-.codebg{background:#000; padding:20px;}
+.codebg{background:#000; padding:20px; margin-top: 5px;}
 .codebg code{color:#CCC;}
 .codebg code span{color:#F00;}
 .codebg pre{margin: 0; padding: 0; background: none;}
+.top{position:fixed; right: 90px; bottom: 100px;}
