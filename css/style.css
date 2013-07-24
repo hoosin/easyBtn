@@ -29,7 +29,7 @@ pre, code { font-family: monospace, sans-serif; font-size: 1em; color:#080; }
 .container .prettyprint { padding: 0; border: 0; margin: 0 0 20px; font-size: 13px; background: #fff; }
 .ribbon img { display: block; border: 0; }
 .logobtn{ color:#2DA1EC;}
-.header h1{text-align:center; font-size: 68px;}
+.header h1{text-align:center; font-size: 68px; font-family: gill sans MT;}
 .header p{font-weight: bold;}
 .section { margin: 40px 0 20px; }
 .example { padding: 20px; border: 1px solid #ccc; margin: 10px -20px 20px; }
