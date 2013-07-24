@@ -40,3 +40,4 @@ pre, code { font-family: monospace, sans-serif; font-size: 1em; color:#080; }
 .codebg{background:#000; padding:20px;}
 .codebg code{color:#CCC;}
 .codebg code span{color:#F00;}
+.codebg pre{margin: 0; padding: 0; background: none;}
