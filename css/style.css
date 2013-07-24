@@ -38,7 +38,9 @@ pre, code { font-family: monospace, sans-serif; font-size: 1em; color:#080; }
 .weibo{background: none repeat scroll 0 0 #2DA1EC;border-radius: 3px 3px 3px 3px; color: #FFFFFF; padding: 5px; text-decoration:none;}
 .weibo:hover{ opacity:0.8;}
 .codebg{background:#000; padding:20px; margin-top: 5px;}
-.codebg code{color:#CCC;}
-.codebg code span{color:#F00;}
+.codebg code{color:#fff;}
+.codebg code span.url{color:#e6db74;}
+.codebg code span.tag{color:#f9263e;}
+.codebg code span.tag2{color:#a6e22e;}
 .codebg pre{margin: 0; padding: 0; background: none;}
 .top{position:fixed; right: 90px; bottom: 100px;}
