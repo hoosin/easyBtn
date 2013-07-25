@@ -1,4 +1,4 @@
-### Welcome to GitHub.
+### Thanks GitHub.
 
 easyBtn.css 可以简易、高效的帮助你开发按钮组件。她很简单，你会爱上她。好，跟着我一起了解她吧！
 
