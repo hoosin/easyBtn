@@ -1,6 +1,7 @@
 ### Welcome to GitHub.
 
-easyBtn.css 可以简易、高效的帮助你开发按钮组件。她很简单，你会爱上她。好，跟着我一起了解她吧！
+easyBtn.css 适用于后台系统，可以简易、高效的帮助你开发按钮组件。她很简单，你会爱上她。好，跟着我一起了解她吧！
+
 
  //DOME：[easyBtn.css](http://bigfish.duapp.com/easyBtn.css/)
  
