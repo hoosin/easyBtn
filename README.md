@@ -15,8 +15,7 @@ easyBtn.css 适用于后台系统，可以简易、高效的帮助你开发按�
       easyBtn.rar UI压缩包
 	  
 	  other：
-				内含一个二级项目：
-									Hoosin.css 按钮，表单元素
+			Hoosin.css 按钮，表单元素
 ```
 
 ####兼容：
