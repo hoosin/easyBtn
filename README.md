@@ -1,29 +1,28 @@
 ### Thanks GitHub.
 
-easyBtn.css é€‚ç”¨äºåå°ç³»ç»Ÿï¼Œå¯ä»¥ç®€æ˜“ã€é«˜æ•ˆçš„å¸®åŠ©ä½ å¼€å‘æŒ‰é’®ç»„ä»¶ã€‚å¥¹å¾ˆç®€å•ï¼Œä½ ä¼šçˆ±ä¸Šå¥¹ã€‚å¥½ï¼Œè·Ÿç€æˆ‘ä¸€èµ·äº†è§£å¥¹å§ï¼
+easyBtn.css ÊÊÓÃÓÚºóÌ¨ÏµÍ³£¬¿ÉÒÔ¼òÒ×¡¢¸ßĞ§µÄ°ïÖúÄã¿ª·¢°´Å¥×é¼ş¡£ËıºÜ¼òµ¥£¬Äã»á°®ÉÏËı¡£ºÃ£¬¸ú×ÅÎÒÒ»ÆğÁË½âËı°É£¡
 
 
- //DOMEï¼š[easyBtn.css](http://bigfish.duapp.com/easyBtn.css/)
+ //DOME£º[easyBtn.css](http://bigfish.duapp.com/easyBtn.css/)
  
-####é¡¹ç›®å†…å®¹ï¼š
+####ÏîÄ¿ÄÚÈİ£º
 
 ```
  easyBtn.css  : 
-      index.html  æ–‡æ¡£é¡µé¢
-      img         æŒ‰é’®ç´ æ
-      css         æ ·å¼è¡¨	
-      easyBtn.rar UIå‹ç¼©åŒ…
+      index.html  ÎÄµµÒ³Ãæ
+      img         °´Å¥ËØ²Ä
+      css         ÑùÊ½±í	
+      easyBtn.rar UIÑ¹Ëõ°ü
 	  
-	  otherï¼š
-			Hoosin.css æŒ‰é’®ï¼Œè¡¨å•å…ƒç´ 
+	  other£º
+			Hoosin.css °´Å¥£¬±íµ¥ÔªËØ
 ```
 
-####å…¼å®¹ï¼š
+####¼æÈİ£º
 
 Firefox 3.5+, Google Chrome, Safari 4+, IE 8+, Opera 10+.
 
-####å¼€æºè®¸å¯ï¼š
+####¿ªÔ´Ğí¿É£º
 
- [easyBtn](https://github.com/hoosin/easyBtn "easyBtn") åŸºäº [MIT License](http://zh.wikipedia.org/wiki/MIT_License "MIT License") å¼€æºï¼Œä½¿ç”¨ä»£ç åªéœ€è¯´æ˜æ¥æºï¼Œæˆ–è€…å¼•ç”¨ [license.txt](http://bigfish.duapp.com/easyBtn.css/license.txt "license.txt")  å³å¯ã€‚
+ [easyBtn](https://github.com/hoosin/easyBtn "easyBtn") »ùÓÚ [MIT License](http://zh.wikipedia.org/wiki/MIT_License "MIT License") ¿ªÔ´£¬Ê¹ÓÃ´úÂëÖ»ĞèËµÃ÷À´Ô´£¬»òÕßÒıÓÃ [license.txt](http://bigfish.duapp.com/easyBtn.css/license.txt "license.txt")  ¼´¿É¡£
 
-##### the end
