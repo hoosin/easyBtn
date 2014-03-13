@@ -13,9 +13,6 @@ easyBtn.css 适用于后台系统，可以简易、高效的帮助你开发按钮组件。她很简单，你会爱
       img         按钮素材
       css         样式表	
       easyBtn.rar UI压缩包
-	  
-	  other：
-			Hoosin.css 按钮，表单元素
 ```
 
 ####兼容：
