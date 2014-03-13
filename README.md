@@ -1,4 +1,28 @@
-easyBtn
-=======
+### Thanks GitHub.
 
-ä¸€ä¸ªä¸ºåå°ç³»ç»Ÿé‡èº«æ‰“æ‹›çš„æŒ‰é’®ç»„ä»¶ã€‚
+easyBtn.css ÊÊÓÃÓÚºóÌ¨ÏµÍ³£¬¿ÉÒÔ¼òÒ×¡¢¸ßĞ§µÄ°ïÖúÄã¿ª·¢°´Å¥×é¼ş¡£ËıºÜ¼òµ¥£¬Äã»á°®ÉÏËı¡£ºÃ£¬¸ú×ÅÎÒÒ»ÆğÁË½âËı°É£¡
+
+
+ //Demo£º[easyBtn.css](http://bigfish.duapp.com/easyBtn.css/)
+ 
+####ÏîÄ¿ÄÚÈİ£º
+
+```
+ easyBtn.css  : 
+      index.html  ÎÄµµÒ³Ãæ
+      img         °´Å¥ËØ²Ä
+      css         ÑùÊ½±í	
+      easyBtn.rar UIÑ¹Ëõ°ü
+	  
+	  other£º
+			Hoosin.css °´Å¥£¬±íµ¥ÔªËØ
+```
+
+####¼æÈİ£º
+
+Firefox 3.5+, Google Chrome, Safari 4+, IE 8+, Opera 10+.
+
+####¿ªÔ´Ğí¿É£º
+
+ [easyBtn](https://github.com/hoosin/easyBtn "easyBtn") »ùÓÚ [MIT License](http://zh.wikipedia.org/wiki/MIT_License "MIT License") ¿ªÔ´£¬Ê¹ÓÃ´úÂëÖ»ĞèËµÃ÷À´Ô´£¬»òÕßÒıÓÃ [license.txt](http://bigfish.duapp.com/easyBtn.css/license.txt "license.txt")  ¼´¿É¡£
+
