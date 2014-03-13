@@ -3,7 +3,7 @@
 easyBtn.css 适用于后台系统，可以简易、高效的帮助你开发按钮组件。她很简单，你会爱上她。好，跟着我一起了解她吧！
 
 
- //Demo：[easyBtn.css](http://bigfish.duapp.com/easyBtn.css/)
+ //Demo：[easyBtn.css](http://hoosin.github.io/easyBtn/)
  
 ####项目内容：
 
