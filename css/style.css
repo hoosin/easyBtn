@@ -41,6 +41,6 @@ pre, code { font-family: monospace, sans-serif; font-size: 1em; color:#080; }
 .codebg code{color:#fff;}
 .codebg code span.url{color:#e6db74;}
 .codebg code span.tag{color:#f9263e;}
-.codebg code span.tag2{color:#a6e22e;}
+.codebg code span.property{color:#a6e22e;}
 .codebg pre{margin: 0; padding: 0; background: none;}
 .top{position:fixed; right: 90px; bottom: 100px;}
