@@ -21,5 +21,5 @@ Firefox 3.5+, Google Chrome, Safari 4+, IE 8+, Opera 10+.
 
 ####开源许可：
 
- [easyBtn](https://github.com/hoosin/easyBtn "easyBtn") 基于 [MIT License](http://zh.wikipedia.org/wiki/MIT_License "MIT License") 开源，使用代码只需说明来源，或者引用 [license.txt](http://bigfish.duapp.com/easyBtn.css/license.txt "license.txt")  即可。
+ [easyBtn](https://github.com/hoosin/easyBtn "easyBtn") 基于 [MIT License](http://zh.wikipedia.org/wiki/MIT_License "MIT License") 开源，使用代码只需说明来源，或者引用 [license.txt](http://hoosin.github.io/easyBtn/LICENSE.txt "license.txt")  即可。
 
