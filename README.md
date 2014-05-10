@@ -1,45 +1,45 @@
 #easyBtn
 
-easyBtn.css ¶¨Î»ÓÚºóÌ¨ÏµÍ³£¬¿ÉÒÔ¼òÒ×¡¢¸ßĞ§µÄ°ïÖúÄã¿ª·¢°´Å¥×é¼ş¡£ËıºÜ¼òµ¥£¬Äã»á°®ÉÏËı¡£
+easyBtn.css å®šä½äºåå°ç³»ç»Ÿï¼Œå¯ä»¥ç®€æ˜“ã€é«˜æ•ˆçš„å¸®åŠ©ä½ å¼€å‘æŒ‰é’®ç»„ä»¶ã€‚å¥¹å¾ˆç®€å•ï¼Œä½ ä¼šçˆ±ä¸Šå¥¹ã€‚
 
-Demo£º[easyBtn.css](http://hoosin.github.io/easyBtn/)
+Demoï¼š[easyBtn.css](http://hoosin.github.io/easyBtn/)
 
-##easyBtnµÄµ®Éú
+##easyBtnçš„è¯ç”Ÿ
 
-ÎÒÔÚĞ´```easyBtn```µÄÊ±ºòºÜ¶àÅóÓÑ¶ÔÎÒËµ£º¡°ºÇºÇ£¬[alice](https://github.com/aliceui/aliceui.org)¡¢[bootstrap](https://github.com/twbs/bootstrap) ×ãÒÔÃëÉ±ÄãÁË£¬Äã»¹¸ã¸öÕâ¸ÉÂï£¿¡±£¬µ«ÎÒ·¢ÏÖ£¬ÔÚÊµ¼Ê¿ª·¢ºóÌ¨»ò²»¼æÈİIE8+ÕâÖÖ³¡¾°£¬Ö»ĞèÒªÒ»¸ö°´Å¥×é¼ş¡£```alice```¡¢```bootstrap```£¬¾ÍÏÔµÃÎÒÓĞĞ©½ÃÇéÁË£¬ÕæµÄ£¬ÓĞĞ©´ó²ÄĞ¡ÓÃ¡£ËùÒÔÎÒ»¹ÊÇ¼á³ÖĞ´ÁË```easyBtn```¡£
+æˆ‘åœ¨å†™```easyBtn```çš„æ—¶å€™å¾ˆå¤šæœ‹å‹å¯¹æˆ‘è¯´ï¼šâ€œå‘µå‘µï¼Œ[alice](https://github.com/aliceui/aliceui.org)ã€[bootstrap](https://github.com/twbs/bootstrap) è¶³ä»¥ç§’æ€ä½ äº†ï¼Œä½ è¿˜æä¸ªè¿™å¹²å˜›ï¼Ÿâ€ï¼Œä½†æˆ‘å‘ç°ï¼Œåœ¨å®é™…å¼€å‘åå°æˆ–ä¸å…¼å®¹IE8+è¿™ç§åœºæ™¯ï¼Œåªéœ€è¦ä¸€ä¸ªæŒ‰é’®ç»„ä»¶ã€‚```alice```ã€```bootstrap```ï¼Œå°±æ˜¾å¾—æˆ‘æœ‰äº›çŸ«æƒ…äº†ï¼ŒçœŸçš„ï¼Œæœ‰äº›å¤§æå°ç”¨ã€‚æ‰€ä»¥æˆ‘è¿˜æ˜¯åšæŒå†™äº†```easyBtn```ã€‚
 
-##Ãû×ÖÀ´ÓÉ
+##åå­—æ¥ç”±
 
-```easyBtn``` ¹ËÃûË¼Òå£ºeasy button £¬¼òµ¥µÄ°´Å¥¡£
+```easyBtn``` é¡¾åæ€ä¹‰ï¼šeasy button ï¼Œç®€å•çš„æŒ‰é’®ã€‚
 
-##Ä¿Â¼½á¹¹
+##ç›®å½•ç»“æ„
 
 ```
 .
-©À©¤©¤ README.md     --- Ê¹ÓÃ°ïÖú
-©À©¤©¤ license.txt   --- Ğí¿ÉÖ¤
-©¸©¤©¤ lib           --- easyBtn.css
-	 ©¸©¤©¤ css      --- °üº¬¿ª·¢Õß°æ¡¢mini°æ
-	 ©¸©¤©¤ img      --- °´Å¥Í¼±êËØ²Ä
+â”œâ”€â”€ README.md     --- ä½¿ç”¨å¸®åŠ©
+â”œâ”€â”€ license.txt   --- è®¸å¯è¯
+â””â”€â”€ lib     
+	  â”œâ”€â”€ css      --- åŒ…å«å¼€å‘è€…ç‰ˆã€miniç‰ˆ
+	  â””â”€â”€ img      --- æŒ‰é’®å›¾æ ‡ç´ æ
 ```
  
-##easyBtn.css ÓĞĞ©É¶
+##easyBtn.css æœ‰äº›å•¥
 
-1. »ù´¡Àà ```class="button"```
-2. Ò»Ğ©°´Å¥µÄÀ©Õ¹
-3. ´øÍ¼±êµÄ°´Å¥
-4. ×éºÏ°´Å¥
+1. åŸºç¡€ç±» ```class="button"```
+2. ä¸€äº›æŒ‰é’®çš„æ‰©å±•
+3. å¸¦å›¾æ ‡çš„æŒ‰é’®
+4. ç»„åˆæŒ‰é’®
 
 
-##¼æÈİ
+##å…¼å®¹
 
 Firefox 3.5+, Google Chrome, Safari 4+, IE 8+, Opera 10+.
 
-##¿ªÔ´Ğí¿É
+##å¼€æºè®¸å¯
 
- [easyBtn](https://github.com/hoosin/easyBtn "easyBtn") »ùÓÚ [MIT License](http://zh.wikipedia.org/wiki/MIT_License "MIT License") ¿ªÔ´£¬Ê¹ÓÃ´úÂëÖ»ĞèËµÃ÷À´Ô´£¬»òÕßÒıÓÃ [license.txt](http://hoosin.github.io/easyBtn/LICENSE.txt "license.txt")  ¼´¿É¡£
+ [easyBtn](https://github.com/hoosin/easyBtn "easyBtn") åŸºäº [MIT License](http://zh.wikipedia.org/wiki/MIT_License "MIT License") å¼€æºï¼Œä½¿ç”¨ä»£ç åªéœ€è¯´æ˜æ¥æºï¼Œæˆ–è€…å¼•ç”¨ [license.txt](http://hoosin.github.io/easyBtn/LICENSE.txt "license.txt")  å³å¯ã€‚
 
-##¸ĞĞ»
+##æ„Ÿè°¢
 
-Web UI by [@bigbin](http://weibo.com/u/1759117577)£¬ICON form [Iconic pack](https://useiconic.com/open/).
+Web UI by [@bigbin](http://weibo.com/u/1759117577)ï¼ŒICON form [Iconic pack](https://useiconic.com/open/).
 
