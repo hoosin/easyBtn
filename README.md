@@ -23,7 +23,7 @@ Demo：[easyBtn.css](http://hoosin.github.io/easyBtn/)
 	 └── img      --- 按钮图标素材
 ```
  
-##easyBtn.css 有些啥：
+##easyBtn.css 有些啥
 
 1. 基础类 ```class="button"```
 2. 一些按钮的扩展
@@ -31,11 +31,11 @@ Demo：[easyBtn.css](http://hoosin.github.io/easyBtn/)
 4. 组合按钮
 
 
-##兼容：
+##兼容
 
 Firefox 3.5+, Google Chrome, Safari 4+, IE 8+, Opera 10+.
 
-##开源许可：
+##开源许可
 
  [easyBtn](https://github.com/hoosin/easyBtn "easyBtn") 基于 [MIT License](http://zh.wikipedia.org/wiki/MIT_License "MIT License") 开源，使用代码只需说明来源，或者引用 [license.txt](http://hoosin.github.io/easyBtn/LICENSE.txt "license.txt")  即可。
 
