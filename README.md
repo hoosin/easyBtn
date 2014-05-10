@@ -6,7 +6,7 @@ Demo：[easyBtn.css](http://hoosin.github.io/easyBtn/)
 
 ##easyBtn的诞生
 
-我在写```easyBtn```的时候很多朋友对我说：“呵呵，[alice](https://github.com/aliceui/aliceui.org)、[bootstrap](https://github.com/twbs/bootstrap) 足以秒杀你了，你还搞个这干嘛？”，但我发现，在实际开发后台或不兼容IE8+这种场景，```alice```、```bootstrap```，就显得我有些矫情了，真的，有些大材小用。所以我还是坚持写了```easyBtn```。
+我在写```easyBtn```的时候很多朋友对我说：“呵呵，[alice](https://github.com/aliceui/aliceui.org)、[bootstrap](https://github.com/twbs/bootstrap) 足以秒杀你了，你还搞个这干嘛？”，但我发现，在实际开发后台或不兼容IE8+这种场景，只需要一个按钮组件。```alice```、```bootstrap```，就显得我有些矫情了，真的，有些大材小用。所以我还是坚持写了```easyBtn```。
 
 ##名字来由
 
